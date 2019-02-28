@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure prepare
+DEPEND=dev-lang/lua:= dev-libs/liblxi[avahi=] qt5? ( dev-qt/qtcharts )
+DESCRIPTION=Tools that enables control of LXI compatible instruments
+EAPI=7
+HOMEPAGE=https://github.com/lxi-tools/lxi-tools
+IUSE=avahi qt5
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD
+RDEPEND=dev-lang/lua:= dev-libs/liblxi[avahi=] qt5? ( dev-qt/qtcharts )
+SLOT=0
+SRC_URI=https://github.com/lxi-tools/lxi-tools/archive/v1.21.tar.gz -> lxi-tools-1.21.tar.gz
+_md5_=bccaf5aeaa0bc901a59ea78448730952

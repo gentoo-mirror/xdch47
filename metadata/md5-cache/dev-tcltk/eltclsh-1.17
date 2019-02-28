@@ -1,0 +1,11 @@
+DEFINED_PHASES=configure
+DEPEND=dev-lang/tcl:0= dev-libs/libedit dev-lang/tk
+DESCRIPTION=Interactive shell for the TCL programming language
+EAPI=7
+HOMEPAGE=http://homepages.laas.fr/mallet/soft/shell/eltclsh
+IUSE=static
+KEYWORDS=amd64 arm x86
+LICENSE=BSD
+SLOT=0
+SRC_URI=http://distfiles.openrobots.org/eltclsh/eltclsh-1.17.tar.gz
+_md5_=d0af8612d5bc61aea550a8f9ed2a491b

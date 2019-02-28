@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure postinst postrm unpack
+DEPEND=>=dev-libs/glib-2.6.4:2 >=media-libs/libpng-1.2.7:0 >=sys-devel/gettext-0.14.1 >=sys-libs/zlib-1.2.1 >=x11-libs/gtk+-2.6.4:2 >=x11-libs/pango-1.8.0 gif? ( >=media-libs/giflib-4.1.4 ) jpeg? ( virtual/jpeg:0 ) tiff? ( >=media-libs/tiff-3.6.1:0 )
+DESCRIPTION=Simple GTK+2 painting program
+EAPI=7
+HOMEPAGE=https://github.com/wjaguar/mtPaint
+IUSE=gif jpeg nls threads tiff
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=>=dev-libs/glib-2.6.4:2 >=media-libs/libpng-1.2.7:0 >=sys-devel/gettext-0.14.1 >=sys-libs/zlib-1.2.1 >=x11-libs/gtk+-2.6.4:2 >=x11-libs/pango-1.8.0 gif? ( >=media-libs/giflib-4.1.4 ) jpeg? ( virtual/jpeg:0 ) tiff? ( >=media-libs/tiff-3.6.1:0 )
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9	xdg-utils	14d00d009167652b1fa363e55effe213
+_md5_=0301858ffcc7aad664d23169dc3bc96f

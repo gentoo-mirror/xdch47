@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure prepare
+DEPEND=avahi? ( net-dns/avahi ) dev-libs/libxml2
+DESCRIPTION=Simple API for communicating with LXI compatible instruments
+EAPI=7
+HOMEPAGE=https://lxi-tools.github.io/
+IUSE=avahi static-libs
+KEYWORDS=amd64 ~x86
+LICENSE=BSD
+RDEPEND=avahi? ( net-dns/avahi ) dev-libs/libxml2
+SLOT=0
+SRC_URI=https://github.com/lxi-tools/liblxi/archive/v1.13.tar.gz -> liblxi-1.13.tar.gz
+_md5_=bc16d85cec7427915e198ecdaaabc3af

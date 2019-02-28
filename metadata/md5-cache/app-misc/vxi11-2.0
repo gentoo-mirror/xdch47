@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install
+DEPEND=net-libs/libtirpc net-libs/rpcsvc-proto
+DESCRIPTION=rpc protocol for communicating with vxi11-enabled devices
+EAPI=7
+HOMEPAGE=https://github.com/applied-optics/vxi11
+KEYWORDS=amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=net-libs/libtirpc net-libs/rpcsvc-proto
+SLOT=0
+SRC_URI=https://github.com/applied-optics/vxi11/archive/v2.0.tar.gz -> vxi11-2.0.tar.gz
+_md5_=bd926529cbdbc3189966f99ab651c625
