@@ -1,7 +1,6 @@
 app-misc/sl-patched 5.1: Steam Locomotive runs across your terminal; patched long version
 app-misc/vxi11 2.0: rpc protocol for communicating with vxi11-enabled devices
 app-misc/zotero 5.0.58: Helps you collect, organize, cite, and share your research sources.
-app-shells/gentoo-zsh-completions 20190218: Gentoo specific zsh completion support (includes emerge and ebuild commands)
 dev-libs/liblxi 1.13: Simple API for communicating with LXI compatible instruments
 dev-libs/libpcl 1.12: Implements the low level functionality for coroutines
 dev-tcltk/eltclsh 1.17: Interactive shell for the TCL programming language
