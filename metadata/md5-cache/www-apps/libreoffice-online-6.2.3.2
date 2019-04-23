@@ -1,0 +1,14 @@
+BDEPEND=dev-python/polib net-libs/nodejs >=app-portage/elt-patches-20170815 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure install postinst prepare setup unpack
+DEPEND=>=app-office/libreoffice-6 dev-libs/poco filecaps? ( sys-libs/libcap )
+DESCRIPTION=Online is a server service
+EAPI=7
+HOMEPAGE=https://www.libreoffice.org/download/libreoffice-online/
+IUSE=+filecaps
+KEYWORDS=~amd64 ~x86
+LICENSE=MPL-2.0
+RDEPEND=>=app-office/libreoffice-6 dev-libs/poco
+SLOT=0
+SRC_URI=https://dev-builds.libreoffice.org/pre-releases/src/libreoffice-6.2.3.2.tar.xz https://download.documentfoundation.org/libreoffice/src/6.2.3/libreoffice-6.2.3.2.tar.xz https://downloadarchive.documentfoundation.org/libreoffice/old/6.2.3.2/src/libreoffice-6.2.3.2.tar.xz
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	fcaps	9445d60c1eb084a91c38ef4c070b2f16	git-r3	0d4635eeb5a96cd5315597a47eba25c9	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	b45201c4e6c096b98e250336954e64b9	user	8bd74731cafdcdad8f7a63637302e073
+_md5_=6695bab6b0d67123f4fa367b699b71ae
