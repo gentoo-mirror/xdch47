@@ -1,0 +1,10 @@
+BDEPEND=app-arch/gzip
+DEFINED_PHASES=install unpack
+DESCRIPTION=Neo keyboard layout for linux console
+EAPI=7
+HOMEPAGE=https://neo-layout.org/
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=https://raw.githubusercontent.com/neo-layout/neo-layout/e05614cf8c473f99cca5907267c2f6e5d397c59b/linux/console/neo.map -> kbd-neo.map
+_md5_=f5d345fa85afc0e9e16cc4ecc9d8393b
