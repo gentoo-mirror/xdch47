@@ -6,3 +6,4 @@ dev-libs/libpcl 1.12: Implements the low level functionality for coroutines
 dev-tcltk/eltclsh 1.17: Interactive shell for the TCL programming language
 dev-tcltk/nagelfar 130: a static syntax checker for Tcl
 dev-tex/glossaries 4.42: Create glossaries and lists of acronyms
+x11-plugins/firetray 0.6.5: System tray for mozilla thunderbird
