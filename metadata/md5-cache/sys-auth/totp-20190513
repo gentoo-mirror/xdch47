@@ -9,4 +9,4 @@ LICENSE=GPL-3
 RDEPEND=dev-python/onetimepass
 SLOT=0
 _eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
-_md5_=123ecf8534cbb047b6e1e0b9e680397a
+_md5_=65621f82658f47ae064c789b841bcafc
