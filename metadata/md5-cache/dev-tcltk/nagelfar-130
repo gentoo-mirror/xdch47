@@ -5,7 +5,8 @@ EAPI=7
 HOMEPAGE=http://nagelfar.berlios.de/
 KEYWORDS=amd64 arm x86
 LICENSE=GPL-2
+PROPERTIES=live
 RDEPEND=>=dev-lang/tcl-8.5 >=dev-lang/tk-8.5
 SLOT=0
-_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
 _md5_=3a62be9222cf87a0610ceb25ed33f38d
