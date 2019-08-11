@@ -3,7 +3,22 @@
 # * generated automatically using pmaint *
 
 app-shells/grmlzshrc:man - Generate and install manpages
+net-misc/dropbear:bsdpty - Add support for legacy BSD pty's rather than dynamic UNIX pty's -- do not use this flag unless you are absolutely sure you actually want it
+net-misc/dropbear:multicall - Build all the programs as one little binary (to save space)
+net-misc/dropbear:shadow - Enable shadow password support
+net-misc/dropbear:utmp - Enable support for lastlog/{u,w}tmp{,x}
+sci-electronics/icglue:nagelfar - Use dev-tcltk/nagelfaras syntax checker
+sys-cluster/env-modules:compat-version - Also install C version of modules (compatibility mode)
+sys-cluster/env-modules:example-modulefiles - Install example module files
+sys-cluster/env-modules:init-profile - Create a symlinks in /etc/profile.d directory to init/profile.{sh,csh}
+sys-cluster/env-modules:zshcomp-patch - Apply zsh completion patch (directory-wise module completion)
 sys-fs/lvm2:device-mapper-only - Build only device-mapper and not the rest of LVM2 (UNSUPPORTED)
 sys-fs/lvm2:lvm2create_initrd - Install lvm2create_initrd script and pull in sys-apps/makedev for the /sbin/MAKEDEV command
 sys-fs/lvm2:sanlock - Enable lvmlockd with support for sanlock
 sys-fs/lvm2:thin - Support for thin volumes
+x11-plugins/pidgin-sipe:ocs2005-message-hack - Disable message timeout for OCS2005 clients which causes "false" not delivered error messages
+x11-plugins/pidgin-sipe:openssl - Enable crypto support via dev-libs/openssl
+x11-plugins/pidgin-sipe:telepathy - Support use as a telepathy backend
+x11-plugins/pidgin-sipe:voice - Enable experimental voice/video support
+x11-plugins/tbsync:dav - Install systemwide provider add-on for CalDAV & CardDAV synchronization capabilities to TbSync
+x11-plugins/tbsync:eas - Install systemwide provider add-on for Exchange ActiveSync (EAS v2.5 & v14.0) synchronization capabilities to TbSync
