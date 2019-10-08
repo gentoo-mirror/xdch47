@@ -23,7 +23,7 @@ sys-apps/kbd-neo 20050814: Neo keyboard layout for linux console
 sys-auth/totp 20190513 20190709: Command-line time-based one-time-password (TOTP) token generator
 sys-cluster/env-modules 4.2.5 4.3.0: Provides for an easy dynamic modification of a user's environment.
 sys-fs/lvm2 2.02.184-r4 2.02.185: User-land utilities for LVM2 (device-mapper) software
-www-apps/gitea 1.8.3 1.9.3: A painless self-hosted Git service
+www-apps/gitea 1.8.3 1.9.3 1.9.4: A painless self-hosted Git service
 www-apps/libreoffice-online 6.2.3.2: Online is a server service
 x11-apps/move-to-next-monitor 20170811: Move windows from one monitor (xfce4)
 x11-plugins/firetray 0.6.5: System tray for mozilla thunderbird
