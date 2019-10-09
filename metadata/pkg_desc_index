@@ -26,6 +26,7 @@ sys-fs/lvm2 2.02.184-r4 2.02.185: User-land utilities for LVM2 (device-mapper) s
 www-apps/gitea 1.8.3 1.9.3 1.9.4: A painless self-hosted Git service
 www-apps/libreoffice-online 6.2.3.2: Online is a server service
 x11-apps/move-to-next-monitor 20170811: Move windows from one monitor (xfce4)
+x11-plugins/birdtray 1.6: Birdtray is a free system tray notification for new mail for Thunderbird
 x11-plugins/firetray 0.6.5: System tray for mozilla thunderbird
 x11-plugins/pidgin-sipe 1.24.0: Pidgin Plug-in SIPE (Sip Exchange Protocol)
 x11-plugins/tbsync 1.7: Central user interface to synchronize organisation data with Thunderbird
