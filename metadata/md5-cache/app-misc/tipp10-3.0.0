@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure install postinst postrm prepare
+DEPEND=dev-qt/qtmultimedia
+DESCRIPTION=intelligent typing tutor
+EAPI=7
+HOMEPAGE=https://gitlab.com/a_a/tipp10
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=dev-qt/qtmultimedia
+SLOT=0
+SRC_URI=https://gitlab.com/a_a/tipp10/-/archive/v3.0.0/tipp10-v3.0.0.tar.bz2
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	1d91b03d42ab6308b5f4f6b598ed110e	qmake-utils	bdf97e69a34b864d6d545f4ec3143ff7	toolchain-funcs	2f8b8f320bee13b71a8a54cc6d09e08a	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=cba0f9cc12dac7660442f44aba87b77a
