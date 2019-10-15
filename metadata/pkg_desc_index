@@ -14,6 +14,7 @@ dev-tcltk/eltclsh 1.17: Interactive shell for the TCL programming language
 dev-tcltk/nagelfar 130: a static syntax checker for Tcl
 dev-tcltk/tclreadline 2.3.6: GNU readline for interactive tcl shells
 dev-tex/glossaries 4.41 4.42: Create glossaries and lists of acronyms
+dev-vcs/git-quick-stats 2.0.10: Simple and efficient way to access various statistics in a git repository
 media-fonts/pecita 5.4: A typeface that mimics handwriting
 media-gfx/mtpaint 3.49.99: Simple GTK+2 painting program
 net-misc/dropbear 2019.78: small SSH 2 client/server designed for small memory environments
