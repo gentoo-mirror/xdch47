@@ -1,7 +1,7 @@
 app-admin/btrsnapshot 0.1: Simple btrfs snapshot helper
 app-misc/lxi-tools 1.21: Tools that enables control of LXI compatible instruments
 app-misc/sl-patched 5.1: Steam Locomotive runs across your terminal; patched long version
-app-misc/tipp10 3.0.0: intelligent typing tutor
+app-misc/tipp10 3.0.0 3.1.0: intelligent typing tutor
 app-misc/vxi11 2.0: rpc protocol for communicating with vxi11-enabled devices
 app-misc/zotero 5.0.58 5.0.69: Helps you collect, organize, cite, and share your research sources.
 app-shells/gentoo-zsh-completions 20190607 20190807 99999999: Gentoo specific zsh completion support (includes emerge and ebuild commands)
@@ -18,14 +18,14 @@ dev-vcs/git-quick-stats 2.0.10: Simple and efficient way to access various stati
 media-fonts/pecita 5.4: A typeface that mimics handwriting
 media-gfx/mtpaint 3.49.99: Simple GTK+2 painting program
 net-misc/dropbear 2019.78: small SSH 2 client/server designed for small memory environments
-net-print/hplip-plugin 3.19.6: Proprietary plugins and firmware for HPLIP
+net-print/hplip-plugin 3.19.6 3.19.8: Proprietary plugins and firmware for HPLIP
 sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
 sci-electronics/icglue 3.2: Tcl-Library for scripted HDL generation
 sys-apps/kbd-neo 20050814: Neo keyboard layout for linux console
 sys-auth/totp 20190513 20190709: Command-line time-based one-time-password (TOTP) token generator
 sys-cluster/env-modules 4.2.5 4.3.0: Provides for an easy dynamic modification of a user's environment.
 sys-fs/lvm2 2.02.184-r4 2.02.185: User-land utilities for LVM2 (device-mapper) software
-www-apps/gitea 1.8.3 1.9.3 1.9.4: A painless self-hosted Git service
+www-apps/gitea 1.9.4: A painless self-hosted Git service
 www-apps/libreoffice-online 6.2.3.2: Online is a server service
 x11-apps/move-to-next-monitor 20170811: Move windows from one monitor (xfce4)
 x11-plugins/birdtray 1.6: Birdtray is a free system tray notification for new mail for Thunderbird
