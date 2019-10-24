@@ -11,7 +11,6 @@ sci-electronics/icglue:nagelfar - Use dev-tcltk/nagelfaras syntax checker
 sys-cluster/env-modules:compat-version - Also install C version of modules (compatibility mode)
 sys-cluster/env-modules:example-modulefiles - Install example module files
 sys-cluster/env-modules:init-profile - Create a symlinks in /etc/profile.d directory to init/profile.{sh,csh}
-sys-cluster/env-modules:zshcomp-patch - Apply zsh completion patch (directory-wise module completion)
 sys-fs/lvm2:device-mapper-only - Build only device-mapper and not the rest of LVM2 (UNSUPPORTED)
 sys-fs/lvm2:lvm2create_initrd - Install lvm2create_initrd script and pull in sys-apps/makedev for the /sbin/MAKEDEV command
 sys-fs/lvm2:sanlock - Enable lvmlockd with support for sanlock
