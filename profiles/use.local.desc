@@ -3,6 +3,8 @@
 # * generated automatically using pmaint *
 
 app-shells/grmlzshrc:man - Generate and install manpages
+dev-vcs/gitolite:acct - User and group management via acct-*/git packages
+dev-vcs/gitolite:tools - Install tools to e.g. convert a Gitosis config to gitolite or one to check if your setup is gitolite >= 3.x compatible
 net-im/prosody:jit - Use LuaJIT instead of vanilla Lua
 net-im/prosody:libevent - Use libevent for event handling
 net-im/prosody:zlib - Support for compressing XMPP streams with mod_compression
