@@ -20,6 +20,7 @@ media-gfx/mtpaint 3.49.99: Simple GTK+2 painting program
 net-im/prosody 0.11.3: Prosody is a flexible communications server for Jabber/XMPP written in Lua
 net-misc/dropbear 2019.78: small SSH 2 client/server designed for small memory environments
 net-print/hplip-plugin 3.19.6 3.19.8: Proprietary plugins and firmware for HPLIP
+prosody-modules/mod-http-upload 20190830: HTTP Upload file transfer mechanism used by Conversations
 sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
 sci-electronics/icglue 3.2: Tcl-Library for scripted HDL generation
 sys-apps/kbd-neo 20050814: Neo keyboard layout for linux console
