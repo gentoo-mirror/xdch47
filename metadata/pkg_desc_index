@@ -17,7 +17,7 @@ dev-tex/glossaries 4.41 4.42: Create glossaries and lists of acronyms
 dev-vcs/git-quick-stats 2.0.10: Simple and efficient way to access various statistics in a git repository
 dev-vcs/gitolite 3.6.11: Highly flexible server for git directory version tracker
 media-fonts/pecita 5.4: A typeface that mimics handwriting
-media-gfx/mtpaint 3.49.99: Simple GTK+2 painting program
+media-gfx/mtpaint 3.49.19: Simple GTK+2 painting program
 net-im/prosody 0.11.3: Prosody is a flexible communications server for Jabber/XMPP written in Lua
 net-misc/dropbear 2019.78: small SSH 2 client/server designed for small memory environments
 net-print/hplip-plugin 3.19.6 3.19.8: Proprietary plugins and firmware for HPLIP

@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=>=dev-libs/glib-2.6.4:2 >=media-libs/libpng-1.2.7:0 >=sys-devel/gettext-0.14.1 >=sys-libs/zlib-1.2.1 >=x11-libs/gtk+-2.6.4:2 >=x11-libs/pango-1.8.0 gif? ( >=media-libs/giflib-4.1.4 ) jpeg? ( virtual/jpeg:0 ) tiff? ( >=media-libs/tiff-3.6.1:0 )
 SLOT=0
 _eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=0301858ffcc7aad664d23169dc3bc96f
+_md5_=63d566e31013aaa50df885180ed454e1
