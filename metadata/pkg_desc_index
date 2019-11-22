@@ -27,7 +27,7 @@ sci-electronics/icglue 3.2 4.0: Tcl-Library for scripted HDL generation
 sys-apps/kbd-neo 20050814: Neo keyboard layout for linux console
 sys-auth/totp 20190513 20190709: Command-line time-based one-time-password (TOTP) token generator
 sys-cluster/env-modules 4.3.1: Provides for an easy dynamic modification of a user's environment.
-www-apps/gitea 1.9.4 1.9.5 1.10.0: A painless self-hosted Git service
+www-apps/gitea 1.9.4 1.9.5 1.10.0 9999: A painless self-hosted Git service
 www-apps/libreoffice-online 6.2.3.2: Online is a server service
 x11-apps/move-to-next-monitor 20170811: Move windows from one monitor (xfce4)
 x11-plugins/birdtray 1.6 1.7_pre: Birdtray is a free system tray notification for new mail for Thunderbird
