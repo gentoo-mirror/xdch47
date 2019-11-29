@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install prepare unpack
+DESCRIPTION=a static syntax checker for Tcl
+EAPI=7
+HOMEPAGE=ihttps://sourceforge.net/projects/nagelfar/files/
+KEYWORDS=amd64 arm x86
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=>=dev-lang/tcl-8.5 >=dev-lang/tk-8.5
+SLOT=0
+_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
+_md5_=1dc0d403ca3b35f82c243d801713ae54
