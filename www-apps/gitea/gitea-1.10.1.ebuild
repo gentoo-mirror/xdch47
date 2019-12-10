@@ -51,16 +51,18 @@ gitea_make() {
 		$(usex sqlite 'sqlite sqlite_unlock_notify' '')
 	)
 	local gitea_settings=(
-		"-X code.gitea.io/gitea/modules/setting.CustomPath=${EPREFIX}/etc/app.ini"
-		"-X code.gitea.io/gitea/modules/setting.CustomConf=${EPREFIX}/var/lib/gitea/custom"
+		"-X code.gitea.io/gitea/modules/setting.CustomConf=${EPREFIX}/etc/gitea/app.ini"
+		"-X code.gitea.io/gitea/modules/setting.CustomPath=${EPREFIX}/var/lib/gitea/custom"
 		"-X code.gitea.io/gitea/modules/setting.AppWorkPath=${EPREFIX}/var/lib/gitea"
 	)
 	local makeenv=(
 		TAGS="${gitea_tags[@]}"
-		LDFLAGS="-extldflags \"${LDFLAGS}\" ${gitea_vars[@]}"
+		LDFLAGS="-extldflags \"${LDFLAGS}\" ${gitea_settings[@]}"
+		GOPATH="${WORKDIR}/${P}:$(get_golibdir_gopath)"
 	)
 	[[ ${PV} != 9999* ]] && makeenv+=("DRONE_TAG=${PV}")
-	env GOPATH="${WORKDIR}/${P}:$(get_golibdir_gopath)" "${makeenv[@]}" emake "$@"
+
+	env "${makeenv[@]}" emake "$@"
 }
 
 src_prepare() {
