@@ -1,4 +1,4 @@
-# Copyright 1999-2019 Gentoo Authors
+# Copyright 1999-2020 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
@@ -18,8 +18,6 @@ RDEPEND="$DEPEND"
 
 S=${WORKDIR}/modules-${PV}
 
-PATCHES=( "${FILESDIR}/moduleshome-${PV}.patch" )
-
 src_configure() {
 	# handcrafted configure -- prefix is MODULESHOME
 	./configure \
@@ -29,6 +27,7 @@ src_configure() {
 		--libexecdir="${EPREFIX}/usr/libexec" \
 		--etcdir="${EPREFIX}/etc" \
 		--initdir="${EPREFIX}/etc/modules/init" \
+		--with-moduleshome="${EPREFIX}/etc/modules" \
 		--datarootdir="${EPREFIX}/usr/share" \
 		--mandir="${EPREFIX}/usr/share/man" \
 		--docdir="${EPREFIX}/usr/share/doc" \
