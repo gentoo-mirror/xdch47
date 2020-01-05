@@ -1,5 +1,6 @@
 app-admin/btrsnapshot 0.1: Simple btrfs snapshot helper
 app-misc/lxi-tools 1.21: Tools that enables control of LXI compatible instruments
+app-misc/mandelbrot-gtk 0.5: Multithreaded GTK application for rendering the mandelbrot and julia-set
 app-misc/sl-patched 5.1: Steam Locomotive runs across your terminal; patched long version
 app-misc/tipp10 3.0.0 3.1.0: intelligent typing tutor
 app-misc/vxi11 2.0: rpc protocol for communicating with vxi11-enabled devices
