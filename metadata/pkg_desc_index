@@ -5,7 +5,7 @@ app-misc/tipp10 3.0.0 3.1.0: intelligent typing tutor
 app-misc/vxi11 2.0: rpc protocol for communicating with vxi11-enabled devices
 app-misc/zotero 5.0.58 5.0.69: Helps you collect, organize, cite, and share your research sources.
 app-shells/gentoo-zsh-completions 20190607 20190807 99999999: Gentoo specific zsh completion support (includes emerge and ebuild commands)
-app-shells/grmlzshrc 0.16.0-r1: grml's zsh setup
+app-shells/grmlzshrc 0.16.1: grml's zsh setup
 dev-libs/liblxi 1.13: Simple API for communicating with LXI compatible instruments
 dev-libs/libpcl 1.12: Implements the low level functionality for coroutines
 dev-perl/Verilog-Perl 3.460 3.468: Perl parsing and utilities for the Verilog Language
