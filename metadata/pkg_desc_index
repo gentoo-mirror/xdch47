@@ -10,7 +10,7 @@ app-shells/grmlzshrc 0.16.1: grml's zsh setup
 dev-libs/liblxi 1.13: Simple API for communicating with LXI compatible instruments
 dev-libs/libpcl 1.12: Implements the low level functionality for coroutines
 dev-perl/Verilog-Perl 3.460 3.468: Perl parsing and utilities for the Verilog Language
-dev-python/onetimepass 1.0.1: Library for HMAC-based (HOTP) and time-based (TOTP) passwords
+dev-python/onetimepass 1.0.1-r1: Library for HMAC-based (HOTP) and time-based (TOTP) passwords
 dev-tcltk/eltclsh 1.17: Interactive shell for the TCL programming language
 dev-tcltk/nagelfar 130 131: a static syntax checker for Tcl
 dev-tcltk/tclreadline 2.3.6: GNU readline for interactive tcl shells
@@ -32,7 +32,7 @@ sys-cluster/env-modules 4.4.1: Provides for an easy dynamic modification of a us
 www-apps/gitea 1.10.2 9999: A painless self-hosted Git service
 www-apps/libreoffice-online 6.2.3.2: Online is a server service
 x11-apps/move-to-next-monitor 20170811: Move windows from one monitor (xfce4)
-x11-plugins/birdtray 1.6 1.7_pre: Birdtray is a free system tray notification for new mail for Thunderbird
+x11-plugins/birdtray 1.7.0: Birdtray is a free system tray notification for new mail for Thunderbird
 x11-plugins/firetray 0.6.5: System tray for mozilla thunderbird
 x11-plugins/pidgin-sipe 1.24.0: Pidgin Plug-in SIPE (Sip Exchange Protocol)
 x11-plugins/tbsync 1.7 2.5: Central user interface to synchronize organisation data with Thunderbird
