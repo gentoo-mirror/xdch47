@@ -1,4 +1,5 @@
 app-admin/btrsnapshot 0.1: Simple btrfs snapshot helper
+app-admin/logcheck 1.3.20: Mails anomalies in the system logfiles to the administrator
 app-misc/lxi-tools 1.21: Tools that enables control of LXI compatible instruments
 app-misc/mandelbrot-gtk 0.5: Multithreaded GTK application for rendering the mandelbrot and julia-set
 app-misc/sl-patched 5.1: Steam Locomotive runs across your terminal; patched long version
