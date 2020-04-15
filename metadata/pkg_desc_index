@@ -36,4 +36,4 @@ x11-apps/move-to-next-monitor 20170811: Move windows from one monitor (xfce4)
 x11-plugins/birdtray 1.7.0: Birdtray is a free system tray notification for new mail for Thunderbird
 x11-plugins/firetray 0.6.5: System tray for mozilla thunderbird
 x11-plugins/pidgin-sipe 1.24.0: Pidgin Plug-in SIPE (Sip Exchange Protocol)
-x11-plugins/tbsync 1.7 2.5: Central user interface to synchronize organisation data with Thunderbird
+x11-plugins/tbsync 2.5 2.11: Central user interface to synchronize organisation data with Thunderbird
