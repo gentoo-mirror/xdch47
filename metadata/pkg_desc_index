@@ -29,7 +29,7 @@ sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting 
 sci-electronics/icglue 3.2 4.0: Tcl-Library for scripted HDL generation
 sys-apps/kbd-neo 20050814: Neo keyboard layout for linux console
 sys-auth/totp 20190513 20190709: Command-line time-based one-time-password (TOTP) token generator
-sys-cluster/env-modules 4.4.1: Provides for an easy dynamic modification of a user's environment.
+sys-cluster/env-modules 4.4.1 4.5.0: Provides for an easy dynamic modification of a user's environment.
 www-apps/gitea 1.10.6 1.11.4 9999: A painless self-hosted Git service
 www-apps/libreoffice-online 6.2.3.2: Online is a server service
 x11-apps/move-to-next-monitor 20170811: Move windows from one monitor (xfce4)
