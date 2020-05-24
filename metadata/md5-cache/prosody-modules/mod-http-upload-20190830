@@ -7,5 +7,5 @@ LICENSE=MIT
 RDEPEND=net-im/prosody
 SLOT=0
 SRC_URI=https://hg.prosody.im/prosody-modules/raw-file/88d414c916ee/mod_http_upload/mod_http_upload.lua -> mod_http_upload-mod_http_upload.lua https://hg.prosody.im/prosody-modules/raw-file/88d414c916ee/mod_http_upload/README.markdown -> mod_http_upload-README.markdown
-_eclasses_=multilib	797cda3549becfe50afdfa35192ca137	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=multilib	ac7989ababbeabdef6fdc6e465b21644	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=fca4a528750bc8db5009f27051c5de00
