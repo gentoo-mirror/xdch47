@@ -16,10 +16,5 @@ sci-electronics/icglue:nagelfar - Use dev-tcltk/nagelfaras syntax checker
 sys-cluster/env-modules:compat-version - Also install C version of modules (compatibility mode)
 sys-cluster/env-modules:example-modulefiles - Install example module files
 sys-cluster/env-modules:init-profile - Create a symlinks in /etc/profile.d directory to init/profile.{sh,csh}
-www-apps/gitea:acct - User and group management via acct-*/git packages
-x11-plugins/pidgin-sipe:ocs2005-message-hack - Disable message timeout for OCS2005 clients which causes "false" not delivered error messages
-x11-plugins/pidgin-sipe:openssl - Enable crypto support via dev-libs/openssl
-x11-plugins/pidgin-sipe:telepathy - Support use as a telepathy backend
-x11-plugins/pidgin-sipe:voice - Enable experimental voice/video support
 x11-plugins/tbsync:dav - Install systemwide provider add-on for CalDAV & CardDAV synchronization capabilities to TbSync
 x11-plugins/tbsync:eas - Install systemwide provider add-on for Exchange ActiveSync (EAS v2.5 & v14.0) synchronization capabilities to TbSync

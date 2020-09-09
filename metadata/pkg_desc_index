@@ -15,25 +15,20 @@ dev-python/onetimepass 1.0.1-r1: Library for HMAC-based (HOTP) and time-based (T
 dev-tcltk/eltclsh 1.17: Interactive shell for the TCL programming language
 dev-tcltk/nagelfar 130 131: a static syntax checker for Tcl
 dev-tcltk/tclreadline 2.3.6: GNU readline for interactive tcl shells
-dev-tex/glossaries 4.44: Create glossaries and lists of acronyms
 dev-vcs/git-quick-stats 2.0.10: Simple and efficient way to access various statistics in a git repository
 dev-vcs/gitolite 3.6.11: Highly flexible server for git directory version tracker
 media-fonts/pecita 5.4: A typeface that mimics handwriting
 media-gfx/mtpaint 3.49.19: Simple GTK+2 painting program
-net-analyzer/fail2ban 0.11.1: scans log files and bans IPs that show malicious signs
 net-im/prosody 0.11.3: Prosody is a flexible communications server for Jabber/XMPP written in Lua
 net-misc/dropbear 2019.78: small SSH 2 client/server designed for small memory environments
-net-print/hplip-plugin 3.19.12: Proprietary plugins and firmware for HPLIP
+net-print/hplip-plugin 3.20.6: Proprietary plugins and firmware for HPLIP
 prosody-modules/mod-http-upload 20190830: HTTP Upload file transfer mechanism used by Conversations
 sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
 sci-electronics/icglue 3.2 4.0: Tcl-Library for scripted HDL generation
 sys-apps/kbd-neo 20050814: Neo keyboard layout for linux console
 sys-auth/totp 20190513 20190709: Command-line time-based one-time-password (TOTP) token generator
 sys-cluster/env-modules 4.5.3: Provides for an easy dynamic modification of a user's environment.
-www-apps/gitea 1.10.6 1.11.4 9999: A painless self-hosted Git service
 www-apps/libreoffice-online 6.2.3.2: Online is a server service
 x11-apps/move-to-next-monitor 20170811: Move windows from one monitor (xfce4)
 x11-plugins/birdtray 1.8.1: Birdtray is a free system tray notification for new mail for Thunderbird
-x11-plugins/firetray 0.6.5: System tray for mozilla thunderbird
-x11-plugins/pidgin-sipe 1.24.0: Pidgin Plug-in SIPE (Sip Exchange Protocol)
 x11-plugins/tbsync 2.5 2.11: Central user interface to synchronize organisation data with Thunderbird
