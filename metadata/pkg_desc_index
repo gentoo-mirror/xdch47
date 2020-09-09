@@ -3,7 +3,7 @@ app-admin/logcheck 1.3.20: Mails anomalies in the system logfiles to the adminis
 app-misc/lxi-tools 1.21: Tools that enables control of LXI compatible instruments
 app-misc/mandelbrot-gtk 0.5: Multithreaded GTK application for rendering the mandelbrot and julia-set
 app-misc/sl-patched 5.1: Steam Locomotive runs across your terminal; patched long version
-app-misc/tipp10 3.0.0 3.1.0: intelligent typing tutor
+app-misc/tipp10 3.2.1: intelligent typing tutor
 app-misc/vxi11 2.0: rpc protocol for communicating with vxi11-enabled devices
 app-misc/zotero 5.0.58 5.0.69: Helps you collect, organize, cite, and share your research sources.
 app-shells/gentoo-zsh-completions 20190607 20190807 99999999: Gentoo specific zsh completion support (includes emerge and ebuild commands)
