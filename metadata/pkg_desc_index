@@ -33,7 +33,7 @@ sys-cluster/env-modules 4.5.3: Provides for an easy dynamic modification of a us
 www-apps/gitea 1.10.6 1.11.4 9999: A painless self-hosted Git service
 www-apps/libreoffice-online 6.2.3.2: Online is a server service
 x11-apps/move-to-next-monitor 20170811: Move windows from one monitor (xfce4)
-x11-plugins/birdtray 1.7.0: Birdtray is a free system tray notification for new mail for Thunderbird
+x11-plugins/birdtray 1.8.1: Birdtray is a free system tray notification for new mail for Thunderbird
 x11-plugins/firetray 0.6.5: System tray for mozilla thunderbird
 x11-plugins/pidgin-sipe 1.24.0: Pidgin Plug-in SIPE (Sip Exchange Protocol)
 x11-plugins/tbsync 2.5 2.11: Central user interface to synchronize organisation data with Thunderbird
