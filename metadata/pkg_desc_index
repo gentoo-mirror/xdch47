@@ -6,7 +6,7 @@ app-misc/sl-patched 5.1: Steam Locomotive runs across your terminal; patched lon
 app-misc/tipp10 3.2.1: intelligent typing tutor
 app-misc/vxi11 2.0: rpc protocol for communicating with vxi11-enabled devices
 app-misc/zotero 5.0.58 5.0.69: Helps you collect, organize, cite, and share your research sources.
-app-shells/gentoo-zsh-completions 20190607 20190807 99999999: Gentoo specific zsh completion support (includes emerge and ebuild commands)
+app-shells/gentoo-zsh-completions 20200910: Gentoo specific zsh completion support (includes emerge and ebuild commands)
 app-shells/grmlzshrc 0.16.1: grml's zsh setup
 dev-libs/liblxi 1.13: Simple API for communicating with LXI compatible instruments
 dev-libs/libpcl 1.12: Implements the low level functionality for coroutines
