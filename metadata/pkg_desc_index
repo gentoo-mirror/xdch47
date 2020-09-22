@@ -17,6 +17,7 @@ dev-tcltk/nagelfar 130 131: a static syntax checker for Tcl
 dev-tcltk/tclreadline 2.3.6: GNU readline for interactive tcl shells
 dev-vcs/git-quick-stats 2.0.10: Simple and efficient way to access various statistics in a git repository
 dev-vcs/gitolite 3.6.11: Highly flexible server for git directory version tracker
+media-fonts/ohsnap 1.8.0-r1: The ohsnap / osnap monospace font (based on Artwiz Snap)
 media-fonts/pecita 5.4: A typeface that mimics handwriting
 media-gfx/mtpaint 3.49.19: Simple GTK+2 painting program
 net-im/prosody 0.11.3: Prosody is a flexible communications server for Jabber/XMPP written in Lua
