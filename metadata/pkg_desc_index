@@ -20,6 +20,7 @@ dev-vcs/gitolite 3.6.11: Highly flexible server for git directory version tracke
 media-fonts/ohsnap 1.8.0-r1: The ohsnap / osnap monospace font (based on Artwiz Snap)
 media-fonts/pecita 5.4: A typeface that mimics handwriting
 media-gfx/mtpaint 3.49.19: Simple GTK+2 painting program
+media-video/shotcut 20.10.31: A free, open source, cross-platform video editor
 net-im/prosody 0.11.3: Prosody is a flexible communications server for Jabber/XMPP written in Lua
 net-misc/dropbear 2020.80-r2: small SSH 2 client/server designed for small memory environments
 net-print/hplip-plugin 3.20.6: Proprietary plugins and firmware for HPLIP
