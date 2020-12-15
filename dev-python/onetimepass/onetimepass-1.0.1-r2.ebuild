@@ -3,7 +3,7 @@
 
 EAPI=7
 
-PYTHON_COMPAT=( python3_{6,7,8} pypy pypy3 )
+PYTHON_COMPAT=( python3_{6,7,8,9} )
 
 inherit distutils-r1
 
@@ -18,5 +18,5 @@ IUSE=""
 
 python_install_all() {
 	distutils-r1_python_install_all
-	dobin "${FILESDIR}/gauth-token"
+	python_foreach_impl python_doscript "${FILESDIR}/gauth-token"
 }
