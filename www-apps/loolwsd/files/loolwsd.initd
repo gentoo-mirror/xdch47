@@ -1,5 +1,5 @@
 #!/sbin/openrc-run
-# Copyright 2016-2019 Gentoo Authors
+# Copyright 2016-2020 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 description="Libreoffice-online webservice daemon"
@@ -8,7 +8,7 @@ user=${user:-lool}
 group=${group:-lool}
 
 command="/usr/bin/loolwsd"
-command_args="$LOOL_ARGS"
+command_args="$LOOLWSD_ARGS"
 command_background="true"
 start_stop_daemon_args="--user ${user} --group ${group}"
 
