@@ -30,6 +30,7 @@ net-print/hplip-plugin 3.20.6: Proprietary plugins and firmware for HPLIP
 prosody-modules/mod-http-upload 20190830: HTTP Upload file transfer mechanism used by Conversations
 sci-electronics/freeroute 1.2.43_p20150316: popular PCB routing and autorouting program
 sci-electronics/icglue 3.2 4.0: Tcl-Library for scripted HDL generation
+sci-electronics/yosys 0.9: Framework for Verilog RTL synthesis
 sys-apps/kbd-neo 20050814: Neo keyboard layout for linux console
 sys-auth/totp 20190709-r1: Command-line time-based one-time-password (TOTP) token generator
 sys-cluster/env-modules 4.5.3: Provides for an easy dynamic modification of a user's environment.

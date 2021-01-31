@@ -12,6 +12,8 @@ net-misc/dropbear:multicall - Build all the programs as one little binary (to sa
 net-misc/dropbear:shadow - Enable shadow password support
 net-misc/dropbear:utmp - Enable support for lastlog/{u,w}tmp{,x}
 sci-electronics/icglue:nagelfar - Use dev-tcltk/nagelfaras syntax checker
+sci-electronics/yosys:abc - Use berkeley-abc (as yosys-abc) for technology mapping
+sci-electronics/yosys:clang - Use Clang compiler instead of GCC
 sys-cluster/env-modules:compat-version - Also install C version of modules (compatibility mode)
 sys-cluster/env-modules:example-modulefiles - Install example module files
 sys-cluster/env-modules:init-profile - Create a symlinks in /etc/profile.d directory to init/profile.{sh,csh}
