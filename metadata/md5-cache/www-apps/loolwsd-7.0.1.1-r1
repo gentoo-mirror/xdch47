@@ -1,14 +1,14 @@
 BDEPEND=dev-python/polib net-libs/nodejs dev-util/cppunit filecaps? ( sys-libs/libcap )
 DEFINED_PHASES=configure install postinst
-DEPEND=acct-group/lool acct-user/lool >=app-office/libreoffice-7 dev-libs/poco app-arch/cpio
+DEPEND=acct-group/lool acct-user/lool >=app-office/libreoffice-7 >=dev-libs/poco-1.10 app-arch/cpio
 DESCRIPTION=Online is a server service
 EAPI=7
 HOMEPAGE=https://www.libreoffice.org/download/libreoffice-online/
 IUSE=+filecaps
 KEYWORDS=~amd64
 LICENSE=MPL-2.0
-RDEPEND=acct-group/lool acct-user/lool >=app-office/libreoffice-7 dev-libs/poco app-arch/cpio filecaps? ( sys-libs/libcap )
+RDEPEND=acct-group/lool acct-user/lool >=app-office/libreoffice-7 >=dev-libs/poco-1.10 app-arch/cpio filecaps? ( sys-libs/libcap )
 SLOT=0
 SRC_URI=https://dev-www.libreoffice.org/online/loolwsd-7.0.1.1.tar.gz
 _eclasses_=fcaps	da689a8e04bbbb3518888ff668fee45b	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
-_md5_=6cf573ccfa782896b6a4cec2492728a3
+_md5_=1d2391bf30e3f95ee3c569a06eeda479

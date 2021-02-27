@@ -34,6 +34,6 @@ sci-electronics/yosys 0.9: Framework for Verilog RTL synthesis
 sys-apps/kbd-neo 20050814: Neo keyboard layout for linux console
 sys-auth/totp 20190709-r1: Command-line time-based one-time-password (TOTP) token generator
 sys-cluster/env-modules 4.7.0: Provides for an easy dynamic modification of a user's environment.
-www-apps/loolwsd 7.0.1.1: Online is a server service
+www-apps/loolwsd 7.0.1.1-r1: Online is a server service
 x11-apps/move-to-next-monitor 20170811: Move windows from one monitor (xfce4)
 x11-plugins/tbsync 2.5 2.11: Central user interface to synchronize organisation data with Thunderbird
