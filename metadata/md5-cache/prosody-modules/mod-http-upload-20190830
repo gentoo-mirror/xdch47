@@ -2,6 +2,7 @@ DEFINED_PHASES=install unpack
 DESCRIPTION=HTTP Upload file transfer mechanism used by Conversations
 EAPI=7
 HOMEPAGE=https://hg.prosody.im/prosody-modules
+INHERIT=multilib
 KEYWORDS=amd64 ~x86
 LICENSE=MIT
 RDEPEND=net-im/prosody
