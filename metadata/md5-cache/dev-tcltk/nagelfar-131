@@ -3,10 +3,11 @@ DEFINED_PHASES=compile install prepare unpack
 DESCRIPTION=a static syntax checker for Tcl
 EAPI=7
 HOMEPAGE=ihttps://sourceforge.net/projects/nagelfar/files/
+INHERIT=git-r3
 KEYWORDS=amd64 arm x86
 LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=>=dev-lang/tcl-8.5 >=dev-lang/tk-8.5
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=1dc0d403ca3b35f82c243d801713ae54

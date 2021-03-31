@@ -4,11 +4,12 @@ DEPEND=>=dev-libs/glib-2.6.4:2 >=media-libs/libpng-1.2.7:0 >=sys-devel/gettext-0
 DESCRIPTION=Simple GTK+2 painting program
 EAPI=7
 HOMEPAGE=https://github.com/wjaguar/mtPaint
+INHERIT=git-r3 xdg-utils
 IUSE=gif jpeg nls threads tiff
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=>=dev-libs/glib-2.6.4:2 >=media-libs/libpng-1.2.7:0 >=sys-devel/gettext-0.14.1 >=sys-libs/zlib-1.2.1 >=x11-libs/gtk+-2.6.4:2 >=x11-libs/pango-1.8.0 gif? ( >=media-libs/giflib-4.1.4 ) jpeg? ( virtual/jpeg:0 ) tiff? ( >=media-libs/tiff-3.6.1:0 )
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=63d566e31013aaa50df885180ed454e1
