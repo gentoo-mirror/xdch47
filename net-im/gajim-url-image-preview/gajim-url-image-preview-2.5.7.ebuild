@@ -1,4 +1,4 @@
-# Copyright 2002-2020 Gentoo Authors
+# Copyright 2002-2021 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
@@ -7,10 +7,11 @@ PYTHON_COMPAT=( python3_{6,7,8,9} )
 
 inherit python-r1
 
-MY_PN="omemo"
+MY_PN="${PN#gajim-}"
+MY_PN="${MY_PN//-/_}"
 
 DESCRIPTION="Gajim plugin for OMEMO XMPP end-to-end encryption"
-HOMEPAGE="https://dev.gajim.org/gajim/gajim-plugins/-/wikis/OmemoGajimPlugin"
+HOMEPAGE="https://dev.gajim.org/gajim/gajim-plugins/-/wikis/UrlImagePreviewPlugin"
 SRC_URI="https://ftp.gajim.org/plugins_releases/${MY_PN}_${PV}.zip"
 
 LICENSE="GPL-3"
