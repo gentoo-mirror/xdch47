@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install
+DEPEND=dev-libs/glib nagelfar? ( dev-tcltk/nagelfar ) system-tcllib? ( dev-tcltk/tcllib )
+DESCRIPTION=Tcl-Library for scripted HDL generation
+EAPI=7
+HOMEPAGE=https://icglue.org/
+IUSE=nagelfar system-tcllib
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-libs/glib nagelfar? ( dev-tcltk/nagelfar ) system-tcllib? ( dev-tcltk/tcllib )
+SLOT=0
+SRC_URI=https://github.com/xdch47/icglue/archive/v5.0a1.tar.gz -> icglue-5.0_alpha1.tar.gz https://github.com/xdch47/icglue/releases/download/v5.0a1/build-assets.tar.gz -> icglue-5.0_alpha1-build-assets.tar.gz
+_md5_=aa25afc9f267b2169f3afdd078b347ec
