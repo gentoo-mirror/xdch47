@@ -13,7 +13,7 @@ app-shells/gentoo-zsh-completions 20200910: Gentoo specific zsh completion suppo
 app-shells/grmlzshrc 0.16.1: grml's zsh setup
 dev-libs/liblxi 1.13: Simple API for communicating with LXI compatible instruments
 dev-libs/libpcl 1.12: Implements the low level functionality for coroutines
-dev-perl/Verilog-Perl 3.474: Perl parsing and utilities for the Verilog Language
+dev-perl/Verilog-Perl 3.478: Perl parsing and utilities for the Verilog Language
 dev-python/onetimepass 1.0.1-r2: Library for HMAC-based (HOTP) and time-based (TOTP) passwords
 dev-tcltk/eltclsh 1.17: Interactive shell for the TCL programming language
 dev-tcltk/nagelfar 131 132: Static syntax checker for Tcl
