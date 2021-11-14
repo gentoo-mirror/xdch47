@@ -12,16 +12,24 @@ app-misc/zotero 5.0.58 5.0.69: Helps you collect, organize, cite, and share your
 app-office/texmaker 5.1.2: A nice LaTeX-IDE
 app-shells/gentoo-zsh-completions 20200910: Gentoo specific zsh completion support (includes emerge and ebuild commands)
 app-shells/grmlzshrc 0.16.1: grml's zsh setup
+dev-libs/libarcus 4.12.0: This library facilitates communication between Cura and its backend
+dev-libs/libcharon 4.12.0: This library facilitates communication between Cura and its backend
 dev-libs/liblxi 1.13: Simple API for communicating with LXI compatible instruments
 dev-libs/libpcl 1.12: Implements the low level functionality for coroutines
+dev-libs/libsavitar 4.12.0: C++ implementation of 3mf loading with SIP python bindings
 dev-perl/Verilog-Perl 3.478: Perl parsing and utilities for the Verilog Language
 dev-python/onetimepass 1.0.1-r2: Library for HMAC-based (HOTP) and time-based (TOTP) passwords
+dev-python/pynest2d 4.12.0: Python bindings for libnest2d
+dev-python/uranium 4.12.0: A Python framework for building 3D printing related applications
 dev-tcltk/eltclsh 1.17: Interactive shell for the TCL programming language
 dev-tcltk/nagelfar 131 132: Static syntax checker for Tcl
 dev-vcs/git-quick-stats 2.0.10: Simple and efficient way to access various statistics in a git repository
 dev-vcs/gitolite 3.6.11: Highly flexible server for git directory version tracker
 media-fonts/ohsnap 1.8.0-r1: The ohsnap / osnap monospace font (based on Artwiz Snap)
 media-fonts/pecita 5.4: A typeface that mimics handwriting
+media-gfx/cura 4.12.0: A 3D model slicing application for 3D printing
+media-gfx/curaengine 4.12.0: A 3D model slicing engine for 3D printing
+media-gfx/fdm-materials 4.12.0: FDM materials for media-gfx/cura
 media-gfx/mtpaint 3.49.19: Simple GTK+2 painting program
 net-im/gajim-omemo 2.7.13: Gajim plugin for OMEMO XMPP end-to-end encryption
 net-im/gajim-url-image-preview 2.5.7: Gajim plugin for OMEMO XMPP end-to-end encryption
