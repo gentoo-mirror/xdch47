@@ -11,5 +11,5 @@ LICENSE=MPL-2.0
 RDEPEND=acct-group/lool acct-user/lool >=app-office/libreoffice-7 >=dev-libs/poco-1.10 app-arch/cpio filecaps? ( sys-libs/libcap )
 SLOT=0
 SRC_URI=https://dev-www.libreoffice.org/online/loolwsd-7.0.1.1.tar.gz
-_eclasses_=multilib	4fbbbc98f236f1b43acd99476bc3cd85	toolchain-funcs	e9da88162e7a3c60376e80c2c2adcdfb	fcaps	babe6282ea5c195981bd302af1adaf3a
+_eclasses_=multilib	4fbbbc98f236f1b43acd99476bc3cd85	toolchain-funcs	3484f775017f532a8d1ae02c65defe13	fcaps	babe6282ea5c195981bd302af1adaf3a
 _md5_=1d2391bf30e3f95ee3c569a06eeda479
