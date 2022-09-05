@@ -21,7 +21,7 @@ dev-perl/Verilog-Perl 3.478: Perl parsing and utilities for the Verilog Language
 dev-python/onetimepass 1.0.1-r3: Library for HMAC-based (HOTP) and time-based (TOTP) passwords
 dev-python/pynest2d 4.12.0: Python bindings for libnest2d
 dev-python/uranium 4.12.0: A Python framework for building 3D printing related applications
-dev-tcltk/eltclsh 1.17: Interactive shell for the TCL programming language
+dev-tcltk/eltclsh 1.18: Interactive shell for the TCL programming language
 dev-tcltk/nagelfar 131 132: Static syntax checker for Tcl
 dev-vcs/git-quick-stats 2.0.10: Simple and efficient way to access various statistics in a git repository
 dev-vcs/gitolite 3.6.11: Highly flexible server for git directory version tracker
