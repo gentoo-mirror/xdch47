@@ -31,6 +31,7 @@ media-gfx/cura 4.12.0: A 3D model slicing application for 3D printing
 media-gfx/curaengine 4.12.0: A 3D model slicing engine for 3D printing
 media-gfx/fdm-materials 4.12.0: FDM materials for media-gfx/cura
 media-gfx/mtpaint 3.49.19: Simple GTK+2 painting program
+media-sound/noisetorch 0.12.2: Real-time microphone noise suppression on Linux.
 net-im/gajim-omemo 2.7.13: Gajim plugin for OMEMO XMPP end-to-end encryption
 net-im/gajim-url-image-preview 2.5.7: Gajim plugin for OMEMO XMPP end-to-end encryption
 net-misc/dropbear 2020.80-r2: small SSH 2 client/server designed for small memory environments
