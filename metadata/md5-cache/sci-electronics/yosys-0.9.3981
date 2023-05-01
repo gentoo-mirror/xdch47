@@ -1,16 +1,16 @@
 BDEPEND=clang? ( sys-devel/clang ) sys-devel/flex sys-devel/bison virtual/pkgconfig
 DEFINED_PHASES=configure install prepare setup
-DEPEND=!readline? ( libedit? ( dev-libs/libedit:= ) ) readline? ( sys-libs/readline:= sys-libs/ncurses:= ) dev-lang/tcl:= python? ( python_single_target_python3_9? ( dev-libs/boost[python_targets_python3_9(-)] ) python_single_target_python3_10? ( dev-libs/boost[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-libs/boost[python_targets_python3_11(-)] ) ) libffi? ( dev-libs/libffi ) sys-libs/zlib
+DEPEND=!readline? ( libedit? ( dev-libs/libedit:= ) ) readline? ( sys-libs/readline:= sys-libs/ncurses:= ) dev-lang/tcl:= python? ( python_single_target_python3_10? ( dev-libs/boost[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-libs/boost[python_targets_python3_11(-)] ) ) libffi? ( dev-libs/libffi ) sys-libs/zlib
 DESCRIPTION=Framework for Verilog RTL synthesis
 EAPI=7
 HOMEPAGE=http://www.clifford.at/yosys/
 INHERIT=python-single-r1
-IUSE=+abc clang libffi libedit readline python python_single_target_python3_9 python_single_target_python3_10 python_single_target_python3_11
+IUSE=+abc clang libffi libedit readline python python_single_target_python3_10 python_single_target_python3_11
 KEYWORDS=~amd64 ~x86
 LICENSE=ISC
-RDEPEND=!readline? ( libedit? ( dev-libs/libedit:= ) ) readline? ( sys-libs/readline:= sys-libs/ncurses:= ) dev-lang/tcl:= python? ( python_single_target_python3_9? ( dev-libs/boost[python_targets_python3_9(-)] ) python_single_target_python3_10? ( dev-libs/boost[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-libs/boost[python_targets_python3_11(-)] ) ) libffi? ( dev-libs/libffi ) sys-libs/zlib python? ( python_single_target_python3_9? ( >=dev-lang/python-3.9.16-r1:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.9-r1:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.1-r1:3.11 ) ) media-gfx/xdot
-REQUIRED_USE=libedit? ( !readline ) python? ( ^^ ( python_single_target_python3_9 python_single_target_python3_10 python_single_target_python3_11 ) )
+RDEPEND=!readline? ( libedit? ( dev-libs/libedit:= ) ) readline? ( sys-libs/readline:= sys-libs/ncurses:= ) dev-lang/tcl:= python? ( python_single_target_python3_10? ( dev-libs/boost[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-libs/boost[python_targets_python3_11(-)] ) ) libffi? ( dev-libs/libffi ) sys-libs/zlib python? ( python_single_target_python3_10? ( >=dev-lang/python-3.10.9-r1:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.1-r1:3.11 ) ) media-gfx/xdot
+REQUIRED_USE=libedit? ( !readline ) python? ( ^^ ( python_single_target_python3_10 python_single_target_python3_11 ) )
 SLOT=0
 SRC_URI=https://github.com/YosysHQ/yosys/archive/0e0f84299a4ae4d0a312c33039378e1ebb20709d.tar.gz -> yosys-0.9.3981.tar.gz https://github.com/berkeley-abc/abc/archive/4f5f73d.tar.gz -> abc-4f5f73d.tar.gz
-_eclasses_=eapi8-dosym	741bfa77afb2a9321261501aca58c208	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	d1408425c7c4a7669b9b17735404b693	python-utils-r1	429bfd4e8d8e39db5385ba5744f30788	python-single-r1	75118e916668a74c660a13b0ecb22562
+_eclasses_=eapi8-dosym	741bfa77afb2a9321261501aca58c208	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	d1408425c7c4a7669b9b17735404b693	python-utils-r1	4544ab96b58e177dc52d75e42f5ee307	python-single-r1	75118e916668a74c660a13b0ecb22562
 _md5_=fad775354053157070ef72038fa2d1d9
