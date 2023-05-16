@@ -3,14 +3,10 @@
 # * generated automatically using pmaint *
 
 app-shells/grmlzshrc:man - Generate and install manpages
-dev-libs/libcharon:client - Install the charon client library
 dev-vcs/gitolite:acct - User and group management via acct-*/git packages
 dev-vcs/gitolite:tools - Install tools to e.g. convert a Gitosis config to gitolite or one to check if your setup is gitolite >= 3.x compatible
 media-fonts/ohsnap:otf - Install Open Type Font (OTF) (required for HarfBuzz backend)
 media-fonts/ohsnap:pcf - Install Portable Compiled Font (PCF) (required for X11)
-media-gfx/cura:usb - Access 3D printers via USB
-media-gfx/curaengine:arcus - Build with support for communication library between internal components for Ultimaker software
-media-gfx/fdm-materials:embedded - Build for Ultimaker Embedded software
 net-misc/dropbear:bsdpty - Add support for legacy BSD pty's rather than dynamic UNIX pty's -- do not use this flag unless you are absolutely sure you actually want it
 net-misc/dropbear:multicall - Build all the programs as one little binary (to save space)
 net-misc/dropbear:shadow - Enable shadow password support
