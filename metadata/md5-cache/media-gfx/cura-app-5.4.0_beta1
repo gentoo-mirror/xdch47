@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst postrm preinst
+DESCRIPTION=3D printer / slicing GUI built on top of the Uranium framework
+EAPI=8
+HOMEPAGE=https://github.com/Ultimaker/Cura
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=desktop xdg
+KEYWORDS=-* ~amd64
+LICENSE=LGPL-3
+RDEPEND=sys-fs/fuse
+RESTRICT=bindist mirror strip
+SLOT=0
+SRC_URI=https://github.com/Ultimaker/Cura/releases/download/5.4.0-beta.1/UltiMaker-Cura-5.4.0-beta.1-linux-modern.AppImage -> cura-app-5.4.0_beta1.AppImage https://upload.wikimedia.org/wikipedia/commons/9/9a/Ultimaker_cura.png -> cura-app-5.4.0_beta1-icon.png
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	baea6080dd821f5562d715887954c9d3	xdg	4a14c5c24f121e7da66e5aab4a168c6e
+_md5_=9235d7af2b66610c3b0d407be3a125d6
