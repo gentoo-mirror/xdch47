@@ -21,7 +21,7 @@ dev-python/uranium 4.12.0: A Python framework for building 3D printing related a
 dev-tcltk/eltclsh 1.18: Interactive shell for the TCL programming language
 dev-tcltk/nagelfar 131 132: Static syntax checker for Tcl
 dev-vcs/git-quick-stats 2.0.10 2.0.10-r1 2.4.1: Simple and efficient way to access various statistics in a git repository
-dev-vcs/gitolite 3.6.11: Highly flexible server for git directory version tracker
+dev-vcs/gitolite 3.6.11 3.6.12: Highly flexible server for git directory version tracker
 media-fonts/ohsnap 1.8.0-r1: The ohsnap / osnap monospace font (based on Artwiz Snap)
 media-fonts/pecita 5.4: A typeface that mimics handwriting
 media-gfx/cura-app 5.4.0_beta1: 3D printer / slicing GUI built on top of the Uranium framework
