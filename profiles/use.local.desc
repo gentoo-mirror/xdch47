@@ -7,6 +7,15 @@ dev-vcs/gitolite:acct - User and group management via acct-*/git packages
 dev-vcs/gitolite:tools - Install tools to e.g. convert a Gitosis config to gitolite or one to check if your setup is gitolite >= 3.x compatible
 media-fonts/ohsnap:otf - Install Open Type Font (OTF) (required for HarfBuzz backend)
 media-fonts/ohsnap:pcf - Install Portable Compiled Font (PCF) (required for X11)
+net-im/gajim:crypt - End to end encryption and GPG encryption
+net-im/gajim:geolocation - Sharing your location
+net-im/gajim:jingle - Audio and video calls
+net-im/gajim:omemo - Install dependencies for OMEMO encryption plugin
+net-im/gajim:remote - Controling Gajim instance from command line with gajim-remote
+net-im/gajim:rst - Generating XHTML output from RST code
+net-im/gajim:spell - Spellchecking of composed messages
+net-im/gajim:upnp - Ability to request your router to forward port for file transfer
+net-im/gajim:webp - Support WebP avatars
 net-misc/dropbear:bsdpty - Add support for legacy BSD pty's rather than dynamic UNIX pty's -- do not use this flag unless you are absolutely sure you actually want it
 net-misc/dropbear:multicall - Build all the programs as one little binary (to save space)
 net-misc/dropbear:shadow - Enable shadow password support
