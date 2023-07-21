@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=dev-libs/dbus-glib media-libs/alsa-lib >=x11-libs/gtk+-2:* dev-libs/nss
 SLOT=0
 SRC_URI=https://www.zotero.org/download/client/dl?channel=release&platform=linux-&version=5.0.69 -> zotero-5.0.69-5.0.69.tar.bz2
-_eclasses_=xdg-utils	baea6080dd821f5562d715887954c9d3	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116
+_eclasses_=xdg-utils	baea6080dd821f5562d715887954c9d3	toolchain-funcs	67b3e3d8916d690003f645486ed86aac	multilib	c19072c3cd7ac5cb21de013f7e9832e0	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116
 _md5_=584a0bbe5e0363a4614012122ed84bb6
