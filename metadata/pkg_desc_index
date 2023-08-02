@@ -29,7 +29,7 @@ media-fonts/pecita 5.4: A typeface that mimics handwriting
 media-gfx/cura-app 5.4.0_beta1: 3D printer / slicing GUI built on top of the Uranium framework
 media-gfx/mtpaint 3.49.19: Simple GTK+2 painting program
 media-sound/noisetorch 0.12.2: Real-time microphone noise suppression on Linux.
-net-im/gajim 1.8.0: Jabber client written in PyGTK
+net-im/gajim 1.8.0 1.8.0-r1: Jabber client written in PyGTK
 net-misc/dropbear 2020.80-r2: small SSH 2 client/server designed for small memory environments
 net-print/hplip-plugin 3.20.6: Proprietary plugins and firmware for HPLIP
 prosody-modules/mod-http-upload 20190830: HTTP Upload file transfer mechanism used by Conversations
