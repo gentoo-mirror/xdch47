@@ -7,6 +7,10 @@ dev-vcs/gitolite:acct - User and group management via acct-*/git packages
 dev-vcs/gitolite:tools - Install tools to e.g. convert a Gitosis config to gitolite or one to check if your setup is gitolite >= 3.x compatible
 media-fonts/ohsnap:otf - Install Open Type Font (OTF) (required for HarfBuzz backend)
 media-fonts/ohsnap:pcf - Install Portable Compiled Font (PCF) (required for X11)
+media-sound/moc:cache - Enable tags caching support
+media-sound/moc:sid - Build with SID (Commodore 64 Audio) support
+media-sound/moc:sndio - Enable support for the media-sound/sndio backend
+media-sound/moc:tremor - Build vorbis support using an integer implementation of the vorbis library (media-libs/tremor)
 net-im/gajim:crypt - End to end encryption and GPG encryption
 net-im/gajim:geolocation - Sharing your location
 net-im/gajim:jingle - Audio and video calls
