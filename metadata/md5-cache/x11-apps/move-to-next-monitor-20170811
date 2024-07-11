@@ -9,5 +9,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=x11-apps/xdpyinfo x11-apps/xprop x11-apps/xwininfo x11-misc/wmctrl x11-misc/xdotool
 SLOT=0
-_eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
 _md5_=8d14cb9500665e2910c7f488cc3f69e5
