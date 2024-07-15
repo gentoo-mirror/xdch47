@@ -8,7 +8,6 @@ app-misc/mandelbrot-gtk 0.5: Multithreaded GTK application for rendering the man
 app-misc/sl-patched 5.1: Steam Locomotive runs across your terminal; patched long version
 app-misc/tipp10 3.2.1: intelligent typing tutor
 app-misc/vxi11 2.0: rpc protocol for communicating with vxi11-enabled devices
-app-misc/zotero 5.0.58 5.0.69: Helps you collect, organize, cite, and share your research sources.
 app-office/texmaker 5.1.2: A nice LaTeX-IDE
 app-shells/gentoo-zsh-completions 20200910: Gentoo specific zsh completion support (includes emerge and ebuild commands)
 app-shells/grmlzshrc 0.16.1: grml's zsh setup
