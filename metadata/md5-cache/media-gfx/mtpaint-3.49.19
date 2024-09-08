@@ -11,5 +11,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=>=dev-libs/glib-2.6.4:2 >=media-libs/libpng-1.2.7:0 >=sys-devel/gettext-0.14.1 >=sys-libs/zlib-1.2.1 >=x11-libs/gtk+-2.6.4:2 >=x11-libs/pango-1.8.0 gif? ( >=media-libs/giflib-4.1.4 ) jpeg? ( virtual/jpeg:0 ) tiff? ( >=media-libs/tiff-3.6.1:0 )
 SLOT=0
-_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	xdg-utils	baea6080dd821f5562d715887954c9d3
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	xdg-utils	5465aed08f1dfc2a75f14cbea4272961
 _md5_=63d566e31013aaa50df885180ed454e1
