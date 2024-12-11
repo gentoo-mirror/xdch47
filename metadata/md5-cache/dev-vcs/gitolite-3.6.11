@@ -11,5 +11,5 @@ LICENSE=GPL-2
 RDEPEND=acct? ( acct-group/git acct-user/git[gitolite] ) dev-lang/perl virtual/perl-File-Path virtual/perl-File-Temp >=dev-vcs/git-1.6.6 !app-vim/gitolite-syntax !dev-vcs/gitolite-gentoo selinux? ( sec-policy/selinux-gitosis ) dev-perl/JSON >=dev-lang/perl-5.38.2-r3[perl_features_debug=,perl_features_ithreads=,perl_features_quadmath=] dev-lang/perl:=
 SLOT=0
 SRC_URI=https://github.com/sitaramc/gitolite/archive/v3.6.11.tar.gz -> gitolite-3.6.11.tar.gz
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	perl-functions	1863acf0982afafc67797e3ce7275b4c	toolchain-funcs	d3d42b22a610ce81c267b644bcec9b87	multilib	b2a329026f2e404e9e371097dda47f96	perl-module	25ca2ff8e7971cb7f817f0bda4be696d
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	perl-functions	1863acf0982afafc67797e3ce7275b4c	toolchain-funcs	fa554cc3cff825d21dfe3f24841e29cf	multilib	b2a329026f2e404e9e371097dda47f96	perl-module	25ca2ff8e7971cb7f817f0bda4be696d
 _md5_=f2deeaef99cdf81530fb6b3f3f77ec07
