@@ -11,5 +11,5 @@ RDEPEND=acct-group/sshd acct-user/sshd !static? ( zlib? ( sys-libs/zlib ) >=dev-
 REQUIRED_USE=pam? ( !static )
 SLOT=0
 SRC_URI=https://matt.ucc.asn.au/dropbear/releases/dropbear-2020.80.tar.bz2 https://matt.ucc.asn.au/dropbear/testing/dropbear-2020.80.tar.bz2
-_eclasses_=portability	a39e3d646f76cb45d06b44cc1144b8d4	savedconfig	b9131abe556ad2ea96c01b06d658d363	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	pam	b56d0c9c20fc5b553f13c8ae165a10a5
+_eclasses_=portability	a39e3d646f76cb45d06b44cc1144b8d4	savedconfig	b9131abe556ad2ea96c01b06d658d363	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	357f1a896fbedcd06e5ce55419c49eb9	pam	b56d0c9c20fc5b553f13c8ae165a10a5
 _md5_=f757b269e5f40f045eb9e97516e7e697
