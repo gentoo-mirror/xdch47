@@ -15,6 +15,7 @@ dev-libs/liblxi 1.13: Simple API for communicating with LXI compatible instrumen
 dev-libs/libpcl 1.12: Implements the low level functionality for coroutines
 dev-perl/Verilog-Perl 3.478: Perl parsing and utilities for the Verilog Language
 dev-python/omemo-dr 1.0.0: Gajim omemo crypto library
+dev-python/onetimepass 1.0.1: One-time password library for HOTP and TOTP passwords
 dev-python/pynest2d 4.12.0: Python bindings for libnest2d
 dev-python/regfile-generics 0.1.0: Python abstraction layer for registerfile access
 dev-python/uranium 4.12.0: A Python framework for building 3D printing related applications
@@ -35,7 +36,7 @@ prosody-modules/mod-http-upload 20190830: HTTP Upload file transfer mechanism us
 sci-electronics/icglue 3.2 4.0 5.0_alpha1: Tcl-Library for scripted HDL generation
 sci-electronics/yosys 0.9.3981 0.47: framework for Verilog RTL synthesis
 sys-apps/kbd-neo 20050814: Neo keyboard layout for linux console
-sys-auth/totp 20190709-r1: Command-line time-based one-time-password (TOTP) token generator
+sys-auth/totp 20190709-r2: Command-line time-based one-time-password (TOTP) token generator
 sys-cluster/env-modules 5.2.0: Provides for an easy dynamic modification of a user's environment.
 www-apps/loolwsd 7.0.1.1-r1 7.0.1.1-r2: Online is a server service
 x11-apps/move-to-next-monitor 20170811: Move windows from one monitor (xfce4)
