@@ -16,9 +16,7 @@ dev-libs/libpcl 1.12: Implements the low level functionality for coroutines
 dev-perl/Verilog-Perl 3.478: Perl parsing and utilities for the Verilog Language
 dev-python/omemo-dr 1.0.0: Gajim omemo crypto library
 dev-python/onetimepass 1.0.1: One-time password library for HOTP and TOTP passwords
-dev-python/pynest2d 4.12.0: Python bindings for libnest2d
 dev-python/regfile-generics 0.1.0: Python abstraction layer for registerfile access
-dev-python/uranium 4.12.0: A Python framework for building 3D printing related applications
 dev-tcltk/eltclsh 1.18: Interactive shell for the TCL programming language
 dev-tcltk/nagelfar 131 132: Static syntax checker for Tcl
 dev-vcs/git-quick-stats 2.0.10 2.0.10-r1 2.4.1: Simple and efficient way to access various statistics in a git repository
