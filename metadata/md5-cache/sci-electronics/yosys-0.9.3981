@@ -12,5 +12,5 @@ RDEPEND=!readline? ( libedit? ( dev-libs/libedit:= ) ) readline? ( sys-libs/read
 REQUIRED_USE=libedit? ( !readline ) python? ( ^^ ( python_single_target_python3_11 ) )
 SLOT=0
 SRC_URI=https://github.com/YosysHQ/yosys/archive/0e0f84299a4ae4d0a312c33039378e1ebb20709d.tar.gz -> yosys-0.9.3981.tar.gz https://github.com/berkeley-abc/abc/archive/4f5f73d.tar.gz -> abc-4f5f73d.tar.gz
-_eclasses_=eapi8-dosym	5ac4857ad078256d939c44f7c64197a9	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	9c45b7a544652d5b47888c9a419c6ccc	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
+_eclasses_=eapi8-dosym	5ac4857ad078256d939c44f7c64197a9	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	5ffe8ec396a751540949b565de0f048c	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
 _md5_=fad775354053157070ef72038fa2d1d9
