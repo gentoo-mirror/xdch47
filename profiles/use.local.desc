@@ -11,10 +11,6 @@ media-sound/moc:cache - Enable tags caching support
 media-sound/moc:sid - Build with SID (Commodore 64 Audio) support
 media-sound/moc:sndio - Enable support for the media-sound/sndio backend
 media-sound/moc:tremor - Build vorbis support using an integer implementation of the vorbis library (media-libs/tremor)
-net-misc/dropbear:bsdpty - Add support for legacy BSD pty's rather than dynamic UNIX pty's -- do not use this flag unless you are absolutely sure you actually want it
-net-misc/dropbear:multicall - Build all the programs as one little binary (to save space)
-net-misc/dropbear:shadow - Enable shadow password support
-net-misc/dropbear:utmp - Enable support for lastlog/{u,w}tmp{,x}
 sci-electronics/icglue:nagelfar - Use dev-tcltk/nagelfaras syntax checker
 sci-electronics/icglue:system-tcllib - Use bundled tcllib files
 sci-electronics/yosys:abc - Use berkeley-abc (as yosys-abc) for technology mapping
