@@ -1,19 +1,20 @@
 EAPI=8
 
-PYTHON_COMPAT=( python3_{10..12} )
+PYTHON_COMPAT=( python3_{10..13} )
 
 inherit git-r3 python-single-r1
 
 DESCRIPTION="framework for Verilog RTL synthesis"
 HOMEPAGE="http://www.clifford.at/yosys/"
 EGIT_REPO_URI=https://github.com/YosysHQ/yosys
-EGIT_COMMIT=$PV
+EGIT_COMMIT=v$PV
+EGIT_SUBMODULES=( '*' )
 LICENSE="ISC"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
-PATCHES=( $FILESDIR/$PN-makefile.patch )
+KEYWORDS="~amd64"
 
 IUSE="+abc clang +libffi +libedit readline python"
+REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 
 DEPEND="!readline? ( libedit? ( dev-libs/libedit:= ) )
 	readline? (
@@ -30,6 +31,11 @@ RDEPEND="${DEPEND}
 	media-gfx/xdot
 "
 
+src_prepare() {
+	default
+	# workaround, since portage does not configure git submodules
+	git -C abc log -1 --format=%H > abc/.gitcommit
+}
 
 src_configure() {
 	if use clang ; then
@@ -52,4 +58,3 @@ src_install() {
 	default
 	python_optimize
 }
-
