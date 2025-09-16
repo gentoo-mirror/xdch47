@@ -1,0 +1,11 @@
+BDEPEND=app-arch/unzip
+DEFINED_PHASES=install
+DEPEND=dev-libs/openssl
+DESCRIPTION=A waveform viewer with a focus on a snappy usable interface, and extensibility.
+EAPI=8
+HOMEPAGE=https://gitlab.com/surfer-project/surfer
+LICENSE=EUPL-1.2
+RDEPEND=dev-libs/openssl
+SLOT=0
+SRC_URI=https://gitlab.com/surfer-project/surfer/-/jobs/11194583450/artifacts/raw/surfer_linux.zip -> surfer-bin-0.4.0_pre20250830.zip
+_md5_=cd391879dec09d43d5296eb8b076cfd4
